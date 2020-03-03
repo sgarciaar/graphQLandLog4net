@@ -18,3 +18,24 @@ C:\Users\NB-ZENTA\source\repos\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComp
 C:\Users\NB-ZENTA\source\repos\Test\obj\Debug\netcoreapp3.1\Test.dll
 C:\Users\NB-ZENTA\source\repos\Test\obj\Debug\netcoreapp3.1\Test.pdb
 C:\Users\NB-ZENTA\source\repos\Test\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\bin\Debug\netcoreapp3.1\Logs\testLog.log
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\bin\Debug\netcoreapp3.1\GraphQL.dll
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\bin\Debug\netcoreapp3.1\GraphQL-Parser.dll
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\bin\Debug\netcoreapp3.1\System.Reactive.Core.dll
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\bin\Debug\netcoreapp3.1\System.Reactive.Interfaces.dll
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\bin\Debug\netcoreapp3.1\System.Reactive.Linq.dll
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\obj\Debug\netcoreapp3.1\Test.csprojAssemblyReference.cache
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\NB-ZENTA\Desktop\ejemplo graphql con log4net\graphQLandLog4net\obj\Debug\netcoreapp3.1\Test.pdb

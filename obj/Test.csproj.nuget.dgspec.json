@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NB-ZENTA\\source\\repos\\Test\\Test.csproj": {}
+    "C:\\Users\\NB-ZENTA\\Desktop\\ejemplo graphql con log4net\\graphQLandLog4net\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NB-ZENTA\\source\\repos\\Test\\Test.csproj": {
+    "C:\\Users\\NB-ZENTA\\Desktop\\ejemplo graphql con log4net\\graphQLandLog4net\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NB-ZENTA\\source\\repos\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\NB-ZENTA\\Desktop\\ejemplo graphql con log4net\\graphQLandLog4net\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\NB-ZENTA\\source\\repos\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\NB-ZENTA\\Desktop\\ejemplo graphql con log4net\\graphQLandLog4net\\Test.csproj",
         "packagesPath": "C:\\Users\\NB-ZENTA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NB-ZENTA\\source\\repos\\Test\\obj\\",
+        "outputPath": "C:\\Users\\NB-ZENTA\\Desktop\\ejemplo graphql con log4net\\graphQLandLog4net\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
