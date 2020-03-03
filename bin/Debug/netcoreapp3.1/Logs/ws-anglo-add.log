@@ -1,0 +1,45 @@
+2020-03-03 11:06:25,554 [1] ERROR - test OK
+2020-03-03 11:06:25,568 [1] INFO  - Hello logging world!
+2020-03-03 11:06:25,569 [1] ERROR - Error!
+2020-03-03 11:06:25,569 [1] WARN  - Warn!
+2020-03-03 11:06:26,180 [1] ERROR - test OK
+2020-03-03 11:08:25,167 [1] ERROR Test.Program - test OK
+2020-03-03 11:08:25,183 [1] INFO Test.Program - Hello logging world!
+2020-03-03 11:08:25,184 [1] ERROR Test.Program - Error!
+2020-03-03 11:08:25,184 [1] WARN Test.Program - Warn!
+2020-03-03 11:08:25,740 [1] ERROR Test.Program - test OK
+2020-03-03 11:09:05,548 [1] ERROR Test.Program - test OK
+2020-03-03 11:09:05,570 [1] INFO Test.Program - Hello logging world!
+2020-03-03 11:09:05,584 [1] ERROR Test.Program - Error!
+2020-03-03 11:09:05,584 [1] WARN Test.Program - Warn!
+2020-03-03 11:09:06,286 [1] ERROR Test.Program - test OK
+2020-03-03 11:09:17,032 [1] ERROR Test.Program - test OK
+2020-03-03 11:09:17,047 [1] INFO Test.Program - Hello logging world!
+2020-03-03 11:09:17,048 [1] ERROR Test.Program - Error!
+2020-03-03 11:09:17,048 [1] WARN Test.Program - Warn!
+2020-03-03 11:09:17,727 [1] ERROR Test.Program - test OK
+2020-03-03 11:09:41,475 [1] ERROR Test.Program - test OK
+2020-03-03 11:09:41,493 [1] INFO Test.Program - Hello logging world!
+2020-03-03 11:09:41,493 [1] ERROR Test.Program - Error!
+2020-03-03 11:09:41,494 [1] WARN Test.Program - Warn!
+2020-03-03 11:09:42,207 [1] ERROR Test.Program - test OK
+2020-03-03 11:11:42,387 [1] ERROR Test.Program - test OK
+2020-03-03 11:11:42,403 [1] INFO Test.Program - Hello logging world!
+2020-03-03 11:11:42,403 [1] ERROR Test.Program - Error!
+2020-03-03 11:11:42,403 [1] WARN Test.Program - Warn!
+2020-03-03 11:11:43,059 [1] ERROR Test.Program - test OK
+2020-03-03 11:12:50,110 [1] ERROR Test.Program - test OK
+2020-03-03 11:12:50,130 [1] INFO Test.Program - Hello logging world!
+2020-03-03 11:12:50,131 [1] ERROR Test.Program - Error!
+2020-03-03 11:12:50,131 [1] WARN Test.Program - Warn!
+2020-03-03 11:12:50,742 [1] ERROR Test.Program - test OK
+2020-03-03 11:14:17,792 [1] ERROR Test.Program - test OK
+2020-03-03 11:14:17,809 [1] INFO Test.Program - Hello logging world!
+2020-03-03 11:14:17,809 [1] ERROR Test.Program - Error!
+2020-03-03 11:14:17,809 [1] WARN Test.Program - Warn!
+2020-03-03 11:14:18,424 [1] ERROR Test.Program - test OK
+2020-03-03 11:15:07,198 [1] ERROR Test.Program - test OK
+2020-03-03 11:15:07,223 [1] INFO Test.Program - Hello logging world!
+2020-03-03 11:15:07,223 [1] ERROR Test.Program - Error!
+2020-03-03 11:15:07,223 [1] WARN Test.Program - Warn!
+2020-03-03 11:15:07,812 [1] ERROR Test.Program - test OK
